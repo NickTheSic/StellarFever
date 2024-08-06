@@ -1,0 +1,13 @@
+Content/MainMenu/Music/StellarFeverTitle.uasset filter=lfs diff=lfs merge=lfs -text
+Content/MainMenu/Music/StellarFeverTitleFADE.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Maps/Launch_Room_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Maps/MainMenuMap_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Maps/ShipWithSystemsV3_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Maps/PlayerSelect_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Tutorial/TutorialMap_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
+Content/MainMenu/Music/StellarFeverTitleFADE.uasset filter=lfs diff=lfs merge=lfs -text
+Content/MainMenu/Music/StellarFeverTitle.uasset filter=lfs diff=lfs merge=lfs -text
+D:/Code/UE4.25/Capstone_F20_S2_QuarantineGames/Content/Maps/ShipWithSystemsV3_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
+D:/Code/UE4.25/Capstone_F20_S2_QuarantineGames/Content/Maps/PlayerSelect_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
+D:/Code/UE4.25/Capstone_F20_S2_QuarantineGames/Content/Maps/Launch_Room_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
+D:/Code/UE4.25/Capstone_F20_S2_QuarantineGames/Content/Tutorial/TutorialMap_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text

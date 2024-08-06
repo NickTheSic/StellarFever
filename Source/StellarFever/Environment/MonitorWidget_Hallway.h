@@ -1,0 +1,18 @@
+// Copyright Quarantine Games 2020
+
+#pragma once
+
+#include "CoreMinimal.h"
+#include "MonitorWidget.h"
+#include "MonitorWidget_Hallway.generated.h"
+
+/**
+ * 
+ */
+UCLASS()
+class STELLARFEVER_API UMonitorWidget_Hallway : public UMonitorWidget
+{
+	GENERATED_BODY()
+protected:
+		virtual void OnMonitorStateChanged_Internal(class AMonitorState* monitor, int32 prevID, int32 newID) override;
+};

@@ -1,0 +1,10 @@
+*.sln
+Intermediate/
+Binaries/
+.vs/
+Saved/
+Output/
+Build/
+enc_temp_folder/
+*.log
+*.un~

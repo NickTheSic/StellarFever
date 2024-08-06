@@ -1,0 +1,45 @@
+// Fill out your copyright notice in the Description page of Project Settings.
+
+#pragma once
+
+#include "CoreMinimal.h"
+#include "../PickUpItem.h"
+#include "OxygenSupplyActor.generated.h"
+
+UCLASS()
+class STELLARFEVER_API AOxygenSupplyActor : public APickUpItem
+{
+	GENERATED_BODY()
+	
+public:	
+	// Sets default values for this actor's properties
+	AOxygenSupplyActor();
+
+protected:
+	// Called when the game starts or when spawned
+	virtual void BeginPlay() override;
+
+public:	
+	// Called every frame
+	virtual void Tick(float DeltaTime) override;
+
+
+public:
+	/////ALL VARIABLES BEELOW/////
+
+public:
+	/////ALL FUNCTIONS BELOW/////
+
+	//Called when created to establish basic functionality
+	virtual void Activate() override;
+
+	//Called when destroyed when in the proper location
+	virtual void Deactivate() override;
+
+	//Called when the object is pickedup to bind it to the right socket
+	virtual void PickUpObject() override;
+
+	//Called when the object is dropped
+	virtual void DropObject(FVector direction) override;
+
+};
