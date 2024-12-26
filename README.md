@@ -1,6 +1,9 @@
 All Rights Reserved.  Quarantine Games
 
 
+Made using Unreal Engine 4.27, no extra libraries or plugins required.  VS2019.  Created on Windows
+
+
 Learn more about the project here: https://www.nicklemmon.cyou/code/stellar-fever
 
 
